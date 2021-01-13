@@ -1,0 +1,10 @@
+# python3.7
+numpy
+pandas
+wordcloud
+matplotlib
+nltk
+sklearn
+imblearn
+scipy
+xgboost
